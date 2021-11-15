@@ -699,6 +699,7 @@ a:hover {
   }
   .header__logo {
     width: 120px;
+    height: 24px;
   }
   .lightning-wrapper {
     position: absolute;
