@@ -28,7 +28,7 @@ function animation() {
     redirectLink.style.display = "flex";
     wheel.classList.toggle("step-2");
     wheelBtn.classList.toggle("animation-in-process");
-    setTimeout(() => (modalAlienSecond.style.display = "block"), 5640);
+    setTimeout(() => (modalAlienSecond.style.display = "flex"), 5640);
   }
   function modalPopup() {
     modal.classList.toggle("modal-active");
